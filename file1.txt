@@ -1,1 +1,2 @@
 "Add one single line inside the text file"
+"Add a second line inside the text file"
